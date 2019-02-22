@@ -1,0 +1,3 @@
+agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_id
+VIA Rail,http://www.viarail.ca,America/Toronto,en,1 888 VIA-RAIL,https://reservia.viarail.ca/,1
+Train de Charlevoix,http://www.traindecharlevoix.com,America/Toronto,en,1-844-737-3282,http://traindecharlevoix.com/francais/horaire-tarifs.html,2

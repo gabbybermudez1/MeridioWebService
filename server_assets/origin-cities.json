@@ -1,0 +1,232 @@
+{
+    "cities": [
+        {
+            "id": 143,
+            "name": "Baltimore, MD",
+            "latitude": 39.37831,
+            "longitude": -76.46223
+        },
+        {
+            "id": 438,
+            "name": "Belleville, ON",
+            "latitude": 44.16201,
+            "longitude": -77.38186
+        },
+        {
+            "id": 277,
+            "name": "Brockville, ON",
+            "latitude": 44.584827,
+            "longitude": -75.69567
+        },
+        {
+            "id": 273,
+            "name": "Buffalo Airport, NY",
+            "latitude": 42.93106,
+            "longitude": -78.73763
+        },
+        {
+            "id": 95,
+            "name": "Buffalo, NY",
+            "latitude": 42.88544,
+            "longitude": -78.87846
+        },
+        {
+            "id": 436,
+            "name": "Burlington, ON",
+            "latitude": 43.374985,
+            "longitude": -79.75439
+        },
+        {
+            "id": 424,
+            "name": "Cambridge, ON",
+            "latitude": 43.355766,
+            "longitude": -80.31349
+        },
+        {
+            "id": 278,
+            "name": "Cornwall, ON",
+            "latitude": 45.02843,
+            "longitude": -74.73569
+        },
+        {
+            "id": 434,
+            "name": "Fort Erie, ON",
+            "latitude": 42.8898,
+            "longitude": -78.96681
+        },
+        {
+            "id": 428,
+            "name": "Grimsby, ON",
+            "latitude": 43.194977,
+            "longitude": -79.564964
+        },
+        {
+            "id": 426,
+            "name": "Hamilton GO Centre, ON",
+            "latitude": 43.26721,
+            "longitude": -79.88846
+        },
+        {
+            "id": 425,
+            "name": "Hamilton McMaster University, ON",
+            "latitude": 43.265705,
+            "longitude": -79.88983
+        },
+        {
+            "id": 276,
+            "name": "Kingston, ON",
+            "latitude": 44.23153,
+            "longitude": -76.47933
+        },
+        {
+            "id": 315,
+            "name": "Kingston-QueensU, ON",
+            "latitude": 44.23153,
+            "longitude": -76.47933
+        },
+        {
+            "id": 279,
+            "name": "Kirkland, PQ",
+            "latitude": 45.4487,
+            "longitude": -73.85739
+        },
+        {
+            "id": 423,
+            "name": "Kitchener, ON",
+            "latitude": 43.450085,
+            "longitude": -80.494255
+        },
+        {
+            "id": 435,
+            "name": "Mississauga, ON",
+            "latitude": 43.59164,
+            "longitude": -79.60393
+        },
+        {
+            "id": 280,
+            "name": "Montreal, PQ",
+            "latitude": 45.51229,
+            "longitude": -73.5544
+        },
+        {
+            "id": 437,
+            "name": "Napanee, ON",
+            "latitude": 44.24852,
+            "longitude": -76.95219
+        },
+        {
+            "id": 123,
+            "name": "New York, NY",
+            "latitude": 40.74447,
+            "longitude": -73.995445
+        },
+        {
+            "id": 124,
+            "name": "Niagara Falls, ON",
+            "latitude": 43.104004,
+            "longitude": -79.06303
+        },
+        {
+            "id": 431,
+            "name": "Oakville, ON",
+            "latitude": 43.467125,
+            "longitude": -79.68881
+        },
+        {
+            "id": 127,
+            "name": "Philadelphia, PA",
+            "latitude": 39.95228,
+            "longitude": -75.16245
+        },
+        {
+            "id": 433,
+            "name": "Port Colborne, ON",
+            "latitude": 42.885777,
+            "longitude": -79.250565
+        },
+        {
+            "id": 441,
+            "name": "Port Hope, ON",
+            "latitude": 43.951057,
+            "longitude": -78.29338
+        },
+        {
+            "id": 134,
+            "name": "Rochester, NY",
+            "latitude": 43.1555,
+            "longitude": -77.61603
+        },
+        {
+            "id": 274,
+            "name": "Scarborough, ON",
+            "latitude": 43.77223,
+            "longitude": -79.25666
+        },
+        {
+            "id": 448,
+            "name": "St Catharines Brock University, ON",
+            "latitude": 43.158863,
+            "longitude": -79.2497
+        },
+        {
+            "id": 427,
+            "name": "St Catharines, ON",
+            "latitude": 43.16362,
+            "longitude": -79.26018
+        },
+        {
+            "id": 139,
+            "name": "Syracuse, NY",
+            "latitude": 43.04999,
+            "longitude": -76.14739
+        },
+        {
+            "id": 310,
+            "name": "Toronto Airport, ON",
+            "latitude": 43.684044,
+            "longitude": -79.61453
+        },
+        {
+            "id": 145,
+            "name": "Toronto, ON",
+            "latitude": 43.64856,
+            "longitude": -79.38532
+        },
+        {
+            "id": 468,
+            "name": "Toronto-Yorkdale, ON",
+            "latitude": 43.72555,
+            "longitude": -79.44848
+        },
+        {
+            "id": 439,
+            "name": "Trenton, ON",
+            "latitude": 44.10164,
+            "longitude": -77.57635
+        },
+        {
+            "id": 142,
+            "name": "Washington, DC",
+            "latitude": 38.89037,
+            "longitude": -77.03196
+        },
+        {
+            "id": 422,
+            "name": "Waterloo, ON",
+            "latitude": 43.500126,
+            "longitude": -80.5279
+        },
+        {
+            "id": 432,
+            "name": "Welland, ON",
+            "latitude": 42.99435,
+            "longitude": -79.23477
+        },
+        {
+            "id": 275,
+            "name": "Whitby, ON",
+            "latitude": 43.89926,
+            "longitude": -78.94254
+        }
+    ]
+}
